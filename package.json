@@ -1,0 +1,19 @@
+{
+  "name": "react_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "N1ck",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
