@@ -16,9 +16,9 @@
   
 4.Enter whatever you want to or else press enter key to skip.
 
-package name: (pokemonapi)
-version: (1.0.0)
-description: <App-Description>
+package name: (pokemonapi) <br>
+version: (1.0.0) <br>
+description: <App-Description> <br>
 entry point: (index.js)
 test command:
 git repository:
@@ -53,8 +53,8 @@ and insert following :
 			<meta charset="UTF-8">
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 			<link rel="icon" href="" />
-			 <link rel="apple-touch-icon" href="" />
+ 			<link rel="icon" href="https://github.com/n1khilnick/reactJS/blob/master/react-parcel.png" />
+			 <link rel="apple-touch-icon" href="https://github.com/n1khilnick/reactJS/blob/master/react-parcel.png" />
 
 			<title>Document</title>
 		</head>
