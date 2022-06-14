@@ -19,11 +19,11 @@
 package name: (pokemonapi) <br>
 version: (1.0.0) <br>
 description: <App-Description> <br>
-entry point: (index.js)
-test command:
-git repository:
-keywords:
-author: <Your-Name>
+entry point: (index.js) <br>
+test command: <br>
+git repository:<br>
+keywords:<br>
+author: <Your-Name> <br>
 license: (ISC)
 
 5.Confirm "yes" 
