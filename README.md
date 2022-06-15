@@ -2,7 +2,7 @@
     React - Parcel
 </h1>
 
-![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parcel.png)
+![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-cover.png)
 
 
 ## Getting Started
