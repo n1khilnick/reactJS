@@ -16,18 +16,18 @@ Create React apps with no build configuration with parcel
 ###___Create React App  without using create-react-app (Instructions)____###
 -----------------------------------------------------------------------------
 
-**1. Go to the <react-app> directory**
+**1. Go to the <react-app> directory
 
-**2..Make the directory :**
+**2. Make the directory :
 
     mkdir <app-name>
 
-3.Crate package.json ;
+**3. Crate package.json ;
 
   cd  <app-name>
   npm init
   
-4.Enter whatever you want to or else press enter key to skip.
+**4. Enter whatever you want to or else press enter key to skip.
 
 package name: <package-name> <br>
 version: (1.0.0) <br>
@@ -39,9 +39,9 @@ keywords:<br>
 author: <Your-Name> <br>
 license: (ISC)
 
-5.Confirm "yes" 
+**5. Confirm "yes" 
 
-6.Go to the app folder and install followings :
+**6. Go to the app folder and install followings :
 
  npm i react
  npm i react-dom
@@ -49,13 +49,13 @@ license: (ISC)
  
  
 
-7.After installationn go to package.jsoon and add the this into the "scripts" :
+**7. After installationn go to package.jsoon and add the this into the "scripts" :
 
 	"start":"parcel index.html",
 	"stop":"parcel index.html",
 
  
-8.Go to the <app-name> folder and create "index.html"
+**8. Go to the <app-name> folder and create "index.html"
 
 and insert following :
 
@@ -81,7 +81,7 @@ and insert following :
 		</html>
 	
 	
-9.After this create "index.js" and insert following :
+**9. After this create "index.js" and insert following :
 
 		import React from 'react';
 		import ReactDOM from 'react-dom/client';
@@ -95,7 +95,7 @@ and insert following :
 
 
 
-10.After This Crate "App.js" file  and paste following :
+**10. After This Crate "App.js" file  and paste following :
 
 		import React from 'react'
 
@@ -108,11 +108,11 @@ and insert following :
 		export default App;
 		
 		
-11.Start the app using "npm start" .
+**11. Start the app using "npm start" .
 
-12.If the parcel causes any build error use the below command in the Git Bash or Unix Shell :
+**12. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :
 
   rm -rf .parcel-cache/*            (Remove all files in the given path recursively.)
   
   
-13.Start the app again.
+**13. Start the app again.
