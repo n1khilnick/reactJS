@@ -29,7 +29,7 @@ Create React apps with no build configuration with parcel
   
 4.Enter whatever you want to or else press enter key to skip.
 
-package name: (pokemonapi) <br>
+package name: <name of the package> <br>
 version: (1.0.0) <br>
 description: <App-Description> <br>
 entry point: (index.js) <br>
