@@ -16,9 +16,9 @@ Create React apps with no build configuration with parcel
 ###___Create React App  without using create-react-app (Instructions)____###
 -----------------------------------------------------------------------------
 
-1.Go to the <react-app> directory
+**1. Go to the <react-app> directory**
 
-2.Make the directory :
+**2..Make the directory :**
 
     mkdir <app-name>
 
