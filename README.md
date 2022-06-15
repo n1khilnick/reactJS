@@ -1,4 +1,8 @@
+<h1 align="center">
+    React - Parcel
+</h1>
 
+![react-parcel](https://cdn-images-1.medium.com/max/2000/1*gCNh33wfDRiSaBc_qv4h7g.png)
 
 ###___Create React App  without using create-react-app (Instructions)____###
 -----------------------------------------------------------------------------
