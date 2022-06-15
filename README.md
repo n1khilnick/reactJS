@@ -2,7 +2,16 @@
     React - Parcel
 </h1>
 
-![react-parcel](https://cdn-images-1.medium.com/max/2000/1*gCNh33wfDRiSaBc_qv4h7g.png)
+![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parcel.png)
+
+
+## Getting Started
+
+Create React apps with no build configuration with parcel
+
+## Installing
+
+### Steps to setup
 
 ###___Create React App  without using create-react-app (Instructions)____###
 -----------------------------------------------------------------------------
