@@ -54,9 +54,7 @@ license: (ISC)
 	"stop":"parcel index.html",
 
  
-**7. Go to the "app-name" folder and create "index.html"**
-
-and insert following :
+**7. Go to the "app-name" folder and create "index.html" and insert following :**
 
 
 		<!DOCTYPE html>
@@ -110,8 +108,8 @@ and insert following :
 **10. Start the app using "npm start" .**
 
 **11. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :**
+ 
+ ######  <rm -rf .parcel-cache/*  &nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
 
-  rm -rf .parcel-cache/*            (Remove all files in the given path recursively.)
-  
   
 **12. Start the app again.**
