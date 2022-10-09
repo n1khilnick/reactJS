@@ -4,7 +4,7 @@
  
  
 <p align="center", width="100px", height="100px">
-  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react", max-width="6px",min-width="6px" />
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react", width="6px",min-width="6px" />
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
 </p>
 
