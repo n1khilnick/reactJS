@@ -3,7 +3,7 @@
 <h1>
 	
 ## Getting Started
-######Create React apps with no build configuration with parcel
+ Create React apps with no build configuration with parcel
 
 <p align="center">
  
