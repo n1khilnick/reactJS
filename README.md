@@ -2,7 +2,7 @@
     React - Parcel
 </h1>
 
-<p align="left", max-width="50px" ,max-height="50px">
+<p align="left",max-width="50px",max-height="50px",min-width="50px",min-height="50px">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react" />
 </p>
 
