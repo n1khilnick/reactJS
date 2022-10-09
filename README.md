@@ -2,7 +2,7 @@
     React - Parcel
 </h1>
 
-![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-cover.png)
+![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif)
 
 
 ## Getting Started
@@ -22,21 +22,24 @@ Create React apps with no build configuration with parcel
     mkdir <app-name>
 
 **2. Crate package.json ;**
+ 
+ ```
+  cd <app-name>
   ```
-  cd  <app-name>
+  ```
   npm init
   ```
   
 **3. Enter whatever you want to or else press enter key to skip.**
-```json
-	package name: <package-name> <br>
-	version: (1.0.0) <br>
-	description: <App-Description> <br>
-	entry point: (index.js) <br>
-	test command: <br>
-	git repository:<br>
-	keywords:<br>
-	author: <Your-Name> <br>
+```
+	package name: <package-name> 
+	version: (1.0.0)
+	description: <App-Description>
+	entry point: (index.js) 
+	test command: 
+	git repository:
+	keywords:
+	author: <Your-Name>
 	license: (ISC)
 ```
 
@@ -58,10 +61,10 @@ Create React apps with no build configuration with parcel
 
 **6. After installationn go to package.jsoon and add the this into the "scripts" :**
 
-``
+```json
 	"start":"parcel index.html",
 	"stop":"parcel index.html",
-
+```
  
 **7. Go to the "app-name" folder and create "index.html" and insert following :**
 
@@ -125,7 +128,7 @@ Create React apps with no build configuration with parcel
  
 ```git
  <rm -rf .parcel-cache/* 
-```				&nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
+				&nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
+```
 
-  
 **12. Start the app again.**
