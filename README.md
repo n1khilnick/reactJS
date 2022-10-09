@@ -61,8 +61,8 @@ license: (ISC)
  
 **7. Go to the "app-name" folder and create "index.html" and insert following :**
 
-
-		<!DOCTYPE html>
+```html
+		<!DOCTYPE html>  
 		<html lang="en">
 		<head>
 			<meta charset="UTF-8">
@@ -81,10 +81,10 @@ license: (ISC)
 			
 		</body>
 		</html>
-	
+```	
 	
 **8. After this create "index.js" and insert following :**
-
+		```react
 		import React from 'react';
 		import ReactDOM from 'react-dom/client';
 		import App from './App';
@@ -93,7 +93,7 @@ license: (ISC)
 		root.render(
 			<App />
 		);
-
+		```
 
 
 
