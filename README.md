@@ -43,7 +43,9 @@ license: (ISC)
 **5. Go to the app folder and install followings :**
 
  npm i react
+ 
  npm i react-dom
+ 
  npm i parcel --save-dev          (saving as -developer)
  
  
