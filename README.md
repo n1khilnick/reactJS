@@ -2,7 +2,7 @@
     React - Parcel
 </h1>
 
-![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif)
+![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif | align=center)
 
 
 ## Getting Started
@@ -62,8 +62,11 @@ Create React apps with no build configuration with parcel
 **6. After installationn go to package.jsoon and add the this into the "scripts" :**
 
 ```json
-	"start":"parcel index.html",
-	"stop":"parcel index.html",
+"scripts": {
+  "start":"parcel index.html",
+  "stop":"parcel index.html",
+}
+
 ```
  
 **7. Go to the "app-name" folder and create "index.html" and insert following :**
