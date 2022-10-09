@@ -2,7 +2,10 @@
     React - Parcel
 </h1>
 
-![react-parcel](https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif | align=center)
+<p align="center">
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif" alt="react-parcel" />
+</p>
+
 
 
 ## Getting Started
@@ -25,10 +28,10 @@ Create React apps with no build configuration with parcel
  
  ```
   cd <app-name>
-  ```
-  ```
+ ```
+ ```
   npm init
-  ```
+ ```
   
 **3. Enter whatever you want to or else press enter key to skip.**
 ```
@@ -44,6 +47,7 @@ Create React apps with no build configuration with parcel
 ```
 
 **4. Confirm "yes"** 
+_____________________
 
 **5. Go to the app folder and install followings :**
 	
@@ -126,12 +130,13 @@ Create React apps with no build configuration with parcel
 		
 		
 **10. Start the app using "npm start" .**
+_________________________________________
 
 **11. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :**
  
 ```git
- <rm -rf .parcel-cache/* 
-				&nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
+ <rm -rf .parcel-cache/*  		<--- (Remove all files in the given path recursively.)---->
 ```
 
 **12. Start the app again.**
+___________________________
