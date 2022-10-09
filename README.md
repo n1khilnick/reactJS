@@ -3,7 +3,7 @@
 <h1>
 ## Getting Started
 
-Create React apps with no build configuration with parcel
+######Create React apps with no build configuration with parcel
 
 <p align="center">
  
@@ -81,8 +81,7 @@ _____________________
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
  			<link rel="icon" href="https://github.com/n1khilnick/reactJS/blob/master/react-parcel.png" />
-			 <link rel="apple-touch-icon" href="https://github.com/n1khilnick/reactJS/blob/master/react-parcel.png" />
-
+			<link rel="apple-touch-icon" href="https://github.com/n1khilnick/reactJS/blob/master/react-parcel.png" />
 			<title>Document</title>
 		</head>
 		<body>
