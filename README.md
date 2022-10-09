@@ -1,8 +1,6 @@
 <h1 align="center">
     React - Parcel
-    <p align="left" >
-  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react" max-width="6%",min-width="6%" />
-</p>
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react", max-width="6%",min-width="6%" />
 </h1>
  
 <p align="right", width="100px", height="100px">
