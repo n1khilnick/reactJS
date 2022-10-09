@@ -2,9 +2,14 @@
     React - Parcel
 </h1>
 
-<p align="center">
+<p align="left">
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react" />
+</p>
+
+<p align="right">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
 </p>
+
 
 
 
