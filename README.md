@@ -3,10 +3,7 @@
 <h1>
  
  
-<p align="center", width="100px", height="100px">
- 
-  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
-</p>
+
 
 
 
@@ -14,6 +11,11 @@
 ## Getting Started
 
 Create React apps with no build configuration with parcel
+
+<p align="center", width="100px", height="100px">
+ 
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
+</p>
 
 ## Installing
 
