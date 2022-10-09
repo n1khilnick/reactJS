@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parce-gif.gif" alt="react-parcel" />
+  <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
 </p>
 
 
