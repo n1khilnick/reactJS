@@ -126,10 +126,11 @@ _____________________
 ```
 		
 		
-**10. Start the app using : **
- ```
-    npm start
- ```
+**10. Start the app using :**
+ 
+```
+  npm start
+```
 _________________________________________
 
 **11. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :**
