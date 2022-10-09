@@ -22,9 +22,10 @@ Create React apps with no build configuration with parcel
     mkdir <app-name>
 
 **2. Crate package.json ;**
-
+  ```
   cd  <app-name>
   npm init
+  ```
   
 **3. Enter whatever you want to or else press enter key to skip.**
 
@@ -41,13 +42,15 @@ license: (ISC)
 **4. Confirm "yes"** 
 
 **5. Go to the app folder and install followings :**
-
- npm i react
- 
- npm i react-dom
- 
- npm i parcel --save-dev          (saving as -developer)
- 
+	 ```
+ 	npm i react
+ 	```
+ 	```
+ 	npm i react-dom
+ 	```
+ 	```
+ 	npm i parcel --save-dev          (saving as -developer)
+ 	```
  
 
 **6. After installationn go to package.jsoon and add the this into the "scripts" :**
