@@ -28,35 +28,37 @@ Create React apps with no build configuration with parcel
   ```
   
 **3. Enter whatever you want to or else press enter key to skip.**
-
-package name: <package-name> <br>
-version: (1.0.0) <br>
-description: <App-Description> <br>
-entry point: (index.js) <br>
-test command: <br>
-git repository:<br>
-keywords:<br>
-author: <Your-Name> <br>
-license: (ISC)
+```json
+	package name: <package-name> <br>
+	version: (1.0.0) <br>
+	description: <App-Description> <br>
+	entry point: (index.js) <br>
+	test command: <br>
+	git repository:<br>
+	keywords:<br>
+	author: <Your-Name> <br>
+	license: (ISC)
+```
 
 **4. Confirm "yes"** 
 
 **5. Go to the app folder and install followings :**
 	
-	```
+```git
  	npm i react
-	```
+```
 	
-	```
+```git
  	npm i react-dom
-	```
-	
- 	npm i parcel --save-dev          //(saving as -developer)
- 	```
+```
+```git
+ 	npm i parcel --save-dev          <!-- (saving as -developer) -->
+```
  
 
 **6. After installationn go to package.jsoon and add the this into the "scripts" :**
 
+``
 	"start":"parcel index.html",
 	"stop":"parcel index.html",
 
@@ -87,7 +89,7 @@ license: (ISC)
 	
 **8. After this create "index.js" and insert following :**
 		
-		```javascript
+```js
 		import React from 'react';
 		import ReactDOM from 'react-dom/client';
 		import App from './App';
@@ -97,13 +99,13 @@ license: (ISC)
 			<App />
 		);
 	
-		```
+```
 
 
 
 **9. After This Crate "App.js" file  and paste following :**
 
-		```javascript
+```js
 		import React from 'react'
 
 		function App() {
@@ -114,14 +116,16 @@ license: (ISC)
 
 		export default App;
 		
-		```
+```
 		
 		
 **10. Start the app using "npm start" .**
 
 **11. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :**
  
- ######  <rm -rf .parcel-cache/*  &nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
+```git
+ <rm -rf .parcel-cache/* 
+```				&nbsp;&emsp;&ensp; (Remove all files in the given path recursively.)>
 
   
 **12. Start the app again.**
