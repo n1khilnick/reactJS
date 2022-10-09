@@ -1,12 +1,7 @@
 <h1 align="center">
-    React <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react", width="28px",min-width="6px" /> - Parcel  
+    React <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react", width="24px",min-width="6px" /> - Parcel  
 <h1>
  
- 
-
-
-
-
 
 ## Getting Started
 
