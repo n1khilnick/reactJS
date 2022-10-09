@@ -42,14 +42,16 @@ license: (ISC)
 **4. Confirm "yes"** 
 
 **5. Go to the app folder and install followings :**
-	 ```
+	
+	```
  	npm i react
- 	```
- 	```
+	```
+	
+	```
  	npm i react-dom
- 	```
- 	```
- 	npm i parcel --save-dev          (saving as -developer)
+	```
+	
+ 	npm i parcel --save-dev          //(saving as -developer)
  	```
  
 
@@ -84,7 +86,8 @@ license: (ISC)
 ```	
 	
 **8. After this create "index.js" and insert following :**
-		```react
+		
+		```javascript
 		import React from 'react';
 		import ReactDOM from 'react-dom/client';
 		import App from './App';
@@ -93,12 +96,14 @@ license: (ISC)
 		root.render(
 			<App />
 		);
+	
 		```
 
 
 
 **9. After This Crate "App.js" file  and paste following :**
 
+		```javascript
 		import React from 'react'
 
 		function App() {
@@ -108,6 +113,8 @@ license: (ISC)
 		}
 
 		export default App;
+		
+		```
 		
 		
 **10. Start the app using "npm start" .**
