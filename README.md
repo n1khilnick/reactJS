@@ -1,11 +1,10 @@
 <h1 align="center">
     React - Parcel
-</h1>
-
-<p align="left",max-width="50px",max-height="50px",min-width="50px",min-height="50px">
+    <p align="left",max-width="6%">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react" />
 </p>
-
+</h1>
+ 
 <p align="right", width="100px", height="100px">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
 </p>
