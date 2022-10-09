@@ -2,11 +2,11 @@
     React - Parcel
 </h1>
 
-<p align="left" width="100px" height="100px">
+<p align="left", width="100px" ,height="100px">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-gif.gif" alt="react" />
 </p>
 
-<p align="right" width="100px" height="100px">
+<p align="right", width="100px", height="100px">
   <img src="https://github.com/n1khilnick/react-parcel/blob/master/react-parcel-gif-from-unscreen-transparent.gif" alt="react-parcel" />
 </p>
 
