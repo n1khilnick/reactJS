@@ -22,7 +22,7 @@
 
     mkdir <app-name>
 
-**2. Crate package.json ;**
+**2. Create package.json ;**
  
  ```
   cd <app-name>
@@ -32,7 +32,7 @@
  ```
   
 **3. Enter whatever you want to or else press enter key to skip.**
-```
+```bash
 	package name: <package-name> 
 	version: (1.0.0)
 	description: <App-Description>
@@ -49,14 +49,14 @@ _____________________
 
 **5. Go to the app folder and install followings :**
 	
-```git
+```bash
  	npm i react
 ```
 	
-```git
+```bash
  	npm i react-dom
 ```
-```git
+```bash
  	npm i parcel --save-dev          <!-- (saving as -developer) -->
 ```
  
@@ -128,14 +128,14 @@ _____________________
 		
 **10. Start the app using :**
  
-```
+```bash
   npm start
 ```
 _________________________________________
 
 **11. If the parcel causes any build error use the below command in the Git Bash or Unix Shell :**
  
-```git
+```bash
  <rm -rf .parcel-cache/*  		<--- (Remove all files in the given path recursively.)---->
 ```
 
